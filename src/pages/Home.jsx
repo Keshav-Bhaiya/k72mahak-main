@@ -1,7 +1,7 @@
 import React from 'react'
 import Video from '../components/home/Video.jsx'
 import HomeHeroText from '../components/home/HomeHeroText.jsx'
-import HomebottomText from '../components/home/HomebottomText.jsx'
+import HomeBottomText from '../components/home/HomeBottomText.jsx'
 
 const Home = () => {
   return (
@@ -14,7 +14,7 @@ const Home = () => {
       {/* Foreground content */}
       <div className='h-screen w-screen relative flex flex-col justify-between'>
         <HomeHeroText />
-        <HomebottomText />
+        <HomeBottomText />
       </div>
     </div>
   )
