@@ -1,7 +1,7 @@
 import React from 'react'
 import Video from '../components/home/Video.jsx'
 import HomeHeroText from '../components/home/HomeHeroText.jsx'
-import HomeBottomText from '../components/home/HomeBottomText.jsx'
+import HomeBottomText from '../components/home/homebottomtext_temp.jsx'
 
 const Home = () => {
   return (
